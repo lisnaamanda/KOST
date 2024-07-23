@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814825111342",
+    "project_id": "project-cnc-8297b",
+    "storage_bucket": "project-cnc-8297b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814825111342:android:6ddda2debcc304e8e3c4bf",
+        "android_client_info": {
+          "package_name": "com.cnckost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrl7sWZ8SezCEs7CI_V8aeqK4K6vSex4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
